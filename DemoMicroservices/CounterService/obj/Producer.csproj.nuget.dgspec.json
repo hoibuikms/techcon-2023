@@ -1,0 +1,174 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/Producer/Producer.csproj": {}
+  },
+  "projects": {
+    "/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/Messages/Messages.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/Messages/Messages.csproj",
+        "projectName": "Messages",
+        "projectPath": "/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/Messages/Messages.csproj",
+        "packagesPath": "/Users/hoibui/.nuget/packages/",
+        "outputPath": "/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/Messages/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/hoibui/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/Producer/Producer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/Producer/Producer.csproj",
+        "projectName": "Producer",
+        "projectPath": "/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/Producer/Producer.csproj",
+        "packagesPath": "/Users/hoibui/.nuget/packages/",
+        "outputPath": "/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/Producer/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/hoibui/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/sdk/7.0.307/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/Messages/Messages.csproj": {
+                "projectPath": "/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/Messages/Messages.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Dapr.AspNetCore": {
+              "target": "Package",
+              "version": "[1.10.0, )"
+            },
+            "Dapr.Client": {
+              "target": "Package",
+              "version": "[1.10.0, )"
+            },
+            "Dapr.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[1.10.0, )"
+            },
+            "Microsoft.Azure.ServiceBus": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.18.1, )"
+            },
+            "Serilog.Exceptions": {
+              "target": "Package",
+              "version": "[8.4.0, )"
+            },
+            "Serilog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Serilog.Settings.AppSettings": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Serilog.Settings.Configuration": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

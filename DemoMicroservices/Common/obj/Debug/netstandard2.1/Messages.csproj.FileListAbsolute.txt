@@ -1,0 +1,10 @@
+/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/Messages/bin/Debug/netstandard2.1/Messages.deps.json
+/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/Messages/bin/Debug/netstandard2.1/Messages.dll
+/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/Messages/bin/Debug/netstandard2.1/Messages.pdb
+/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/Messages/obj/Debug/netstandard2.1/Messages.csproj.AssemblyReference.cache
+/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/Messages/obj/Debug/netstandard2.1/Messages.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/Messages/obj/Debug/netstandard2.1/Messages.AssemblyInfoInputs.cache
+/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/Messages/obj/Debug/netstandard2.1/Messages.AssemblyInfo.cs
+/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/Messages/obj/Debug/netstandard2.1/Messages.csproj.CoreCompileInputs.cache
+/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/Messages/obj/Debug/netstandard2.1/Messages.dll
+/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/Messages/obj/Debug/netstandard2.1/Messages.pdb

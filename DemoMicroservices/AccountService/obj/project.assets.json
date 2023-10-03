@@ -9765,11 +9765,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/AccountService/AccountService.csproj",
+      "projectUniqueName": "/Users/hoibui/Desktop/techcon-2023/DemoMicroservices/AccountService/AccountService.csproj",
       "projectName": "AccountService",
-      "projectPath": "/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/AccountService/AccountService.csproj",
+      "projectPath": "/Users/hoibui/Desktop/techcon-2023/DemoMicroservices/AccountService/AccountService.csproj",
       "packagesPath": "/Users/hoibui/.nuget/packages/",
-      "outputPath": "/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/AccountService/obj/",
+      "outputPath": "/Users/hoibui/Desktop/techcon-2023/DemoMicroservices/AccountService/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/hoibui/.nuget/NuGet/NuGet.Config"
@@ -9785,8 +9785,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/Common/Common.csproj": {
-              "projectPath": "/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/Common/Common.csproj"
+            "/Users/hoibui/Desktop/techcon-2023/DemoMicroservices/Common/Common.csproj": {
+              "projectPath": "/Users/hoibui/Desktop/techcon-2023/DemoMicroservices/Common/Common.csproj"
             }
           }
         }

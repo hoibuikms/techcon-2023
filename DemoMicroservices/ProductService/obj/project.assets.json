@@ -9192,11 +9192,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/ProductService/ProductService.csproj",
+      "projectUniqueName": "/Users/hoibui/Desktop/techcon-2023/DemoMicroservices/ProductService/ProductService.csproj",
       "projectName": "ProductService",
-      "projectPath": "/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/ProductService/ProductService.csproj",
+      "projectPath": "/Users/hoibui/Desktop/techcon-2023/DemoMicroservices/ProductService/ProductService.csproj",
       "packagesPath": "/Users/hoibui/.nuget/packages/",
-      "outputPath": "/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/ProductService/obj/",
+      "outputPath": "/Users/hoibui/Desktop/techcon-2023/DemoMicroservices/ProductService/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/hoibui/.nuget/NuGet/NuGet.Config"
@@ -9212,8 +9212,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/Common/Common.csproj": {
-              "projectPath": "/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/Common/Common.csproj"
+            "/Users/hoibui/Desktop/techcon-2023/DemoMicroservices/Common/Common.csproj": {
+              "projectPath": "/Users/hoibui/Desktop/techcon-2023/DemoMicroservices/Common/Common.csproj"
             }
           }
         }

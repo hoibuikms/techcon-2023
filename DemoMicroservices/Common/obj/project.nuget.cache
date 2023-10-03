@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1dRB94rxOFTXdVe0pHeUfb6kbYrxNmVZ07hiJvuabinByNgEgaKDzluUEe5uBOtQcfj8LwSGQ1mpSJ/fvgBnOg==",
+  "dgSpecHash": "KhYrpLGdCkIle12Gf/1chGssw3E5u0sMue83devs4BDundOy+OeUob8ITRxkJQHUFC4mrgvCK1ivrUXq7FXHtQ==",
   "success": true,
-  "projectFilePath": "/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/Common/Common.csproj",
+  "projectFilePath": "/Users/hoibui/Desktop/techcon-2023/DemoMicroservices/Common/Common.csproj",
   "expectedPackageFiles": [
     "/Users/hoibui/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/hoibui/.nuget/packages/mediatr/11.1.0/mediatr.11.1.0.nupkg.sha512",

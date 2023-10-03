@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xwZF1Zxy8F0StA2aPy0uRyQDA2Hq1+V+HMiv3cZWhPJW4XlAqnWH6/vZhPhXDkBJlgVbkOfDUey/jmSQKhUn3g==",
+  "dgSpecHash": "Y7puc69lnbbFrhwNcUVcr4K0zuloNXYnkT+xCwil8uSUKA7cJB2lL0dTsKniEIdF4fTeZmcRXA99QKMrq/CrvQ==",
   "success": true,
-  "projectFilePath": "/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/CounterService/CounterService.csproj",
+  "projectFilePath": "/Users/hoibui/Desktop/techcon-2023/DemoMicroservices/CounterService/CounterService.csproj",
   "expectedPackageFiles": [
     "/Users/hoibui/.nuget/packages/dapr.aspnetcore/1.10.0/dapr.aspnetcore.1.10.0.nupkg.sha512",
     "/Users/hoibui/.nuget/packages/dapr.client/1.10.0/dapr.client.1.10.0.nupkg.sha512",

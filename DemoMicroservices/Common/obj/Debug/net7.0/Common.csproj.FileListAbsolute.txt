@@ -12,3 +12,17 @@
 /Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/Common/obj/Debug/net7.0/Common.pdb
 /Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/Common/obj/Debug/net7.0/Common.genruntimeconfig.cache
 /Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/Common/obj/Debug/net7.0/ref/Common.dll
+/Users/hoibui/Desktop/techcon-2023/DemoMicroservices/Common/bin/Debug/net7.0/Common.deps.json
+/Users/hoibui/Desktop/techcon-2023/DemoMicroservices/Common/bin/Debug/net7.0/Common.runtimeconfig.json
+/Users/hoibui/Desktop/techcon-2023/DemoMicroservices/Common/bin/Debug/net7.0/Common.dll
+/Users/hoibui/Desktop/techcon-2023/DemoMicroservices/Common/bin/Debug/net7.0/Common.pdb
+/Users/hoibui/Desktop/techcon-2023/DemoMicroservices/Common/obj/Debug/net7.0/Common.csproj.AssemblyReference.cache
+/Users/hoibui/Desktop/techcon-2023/DemoMicroservices/Common/obj/Debug/net7.0/Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hoibui/Desktop/techcon-2023/DemoMicroservices/Common/obj/Debug/net7.0/Common.AssemblyInfoInputs.cache
+/Users/hoibui/Desktop/techcon-2023/DemoMicroservices/Common/obj/Debug/net7.0/Common.AssemblyInfo.cs
+/Users/hoibui/Desktop/techcon-2023/DemoMicroservices/Common/obj/Debug/net7.0/Common.csproj.CoreCompileInputs.cache
+/Users/hoibui/Desktop/techcon-2023/DemoMicroservices/Common/obj/Debug/net7.0/Common.dll
+/Users/hoibui/Desktop/techcon-2023/DemoMicroservices/Common/obj/Debug/net7.0/refint/Common.dll
+/Users/hoibui/Desktop/techcon-2023/DemoMicroservices/Common/obj/Debug/net7.0/Common.pdb
+/Users/hoibui/Desktop/techcon-2023/DemoMicroservices/Common/obj/Debug/net7.0/Common.genruntimeconfig.cache
+/Users/hoibui/Desktop/techcon-2023/DemoMicroservices/Common/obj/Debug/net7.0/ref/Common.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/CustomerService/CustomerService.csproj": {}
+    "/Users/hoibui/Desktop/techcon-2023/DemoMicroservices/CustomerService/CustomerService.csproj": {}
   },
   "projects": {
-    "/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/Common/Common.csproj": {
+    "/Users/hoibui/Desktop/techcon-2023/DemoMicroservices/Common/Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/Common/Common.csproj",
+        "projectUniqueName": "/Users/hoibui/Desktop/techcon-2023/DemoMicroservices/Common/Common.csproj",
         "projectName": "Common",
-        "projectPath": "/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/Common/Common.csproj",
+        "projectPath": "/Users/hoibui/Desktop/techcon-2023/DemoMicroservices/Common/Common.csproj",
         "packagesPath": "/Users/hoibui/.nuget/packages/",
-        "outputPath": "/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/Common/obj/",
+        "outputPath": "/Users/hoibui/Desktop/techcon-2023/DemoMicroservices/Common/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/hoibui/.nuget/NuGet/NuGet.Config"
@@ -107,14 +107,14 @@
         }
       }
     },
-    "/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/CustomerService/CustomerService.csproj": {
+    "/Users/hoibui/Desktop/techcon-2023/DemoMicroservices/CustomerService/CustomerService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/CustomerService/CustomerService.csproj",
+        "projectUniqueName": "/Users/hoibui/Desktop/techcon-2023/DemoMicroservices/CustomerService/CustomerService.csproj",
         "projectName": "CustomerService",
-        "projectPath": "/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/CustomerService/CustomerService.csproj",
+        "projectPath": "/Users/hoibui/Desktop/techcon-2023/DemoMicroservices/CustomerService/CustomerService.csproj",
         "packagesPath": "/Users/hoibui/.nuget/packages/",
-        "outputPath": "/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/CustomerService/obj/",
+        "outputPath": "/Users/hoibui/Desktop/techcon-2023/DemoMicroservices/CustomerService/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/hoibui/.nuget/NuGet/NuGet.Config"
@@ -130,8 +130,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/Common/Common.csproj": {
-                "projectPath": "/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/Common/Common.csproj"
+              "/Users/hoibui/Desktop/techcon-2023/DemoMicroservices/Common/Common.csproj": {
+                "projectPath": "/Users/hoibui/Desktop/techcon-2023/DemoMicroservices/Common/Common.csproj"
               }
             }
           }

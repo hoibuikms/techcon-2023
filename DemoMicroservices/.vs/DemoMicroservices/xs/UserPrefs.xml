@@ -1,4 +1,23 @@
-﻿<Properties StartupConfiguration="{DAA0FE8A-0AB3-4F18-994A-7CE5DE8DA092}|ConsumerAPI">
+﻿<Properties StartupConfiguration="{3BED683B-C872-4A97-ACD2-E90FFB78D6FB}|Producer">
+  <MonoDevelop.Ide.ItemProperties.ProductService PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.CustomerService PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <Breakpoint file="/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/CustomerService/MediatR/UpdateHandler.cs" relfile="CustomerService/MediatR/UpdateHandler.cs" line="33" column="1" />
+    <Breakpoint file="/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/CustomerService/Controllers/ApproveController.cs" relfile="CustomerService/Controllers/ApproveController.cs" line="33" column="1" />
+    <Breakpoint file="/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/CustomerService/Controllers/ApproveController.cs" relfile="CustomerService/Controllers/ApproveController.cs" line="25" column="1" />
+    <Breakpoint file="/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/CustomerService/MediatR/UpdateHandler.cs" relfile="CustomerService/MediatR/UpdateHandler.cs" line="23" column="1" />
+    <Breakpoint file="/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/CustomerService/MediatR/UpdateHandler.cs" relfile="CustomerService/MediatR/UpdateHandler.cs" line="15" column="1" />
+    <Breakpoint file="/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/CustomerService/MediatR/UpdateHandler.cs" relfile="CustomerService/MediatR/UpdateHandler.cs" line="30" column="1" />
+    <Breakpoint file="/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/CustomerService/MediatR/UpdateHandler.cs" relfile="CustomerService/MediatR/UpdateHandler.cs" line="44" column="1" />
+    <Breakpoint file="/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/CustomerService/MediatR/UpdateHandler.cs" relfile="CustomerService/MediatR/UpdateHandler.cs" line="50" column="1" />
+    <Breakpoint file="/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/CustomerService/MediatR/UpdateHandler.cs" relfile="CustomerService/MediatR/UpdateHandler.cs" line="52" column="1" />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.AccountService PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.CounterService PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.CounterSetvice PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workbench ActiveDocument="CustomerService/Controllers/CheckoutController.cs">
     <Files>
       <File FileName="AccountService/Controllers/AccountController.cs" Line="1" Column="1" />
@@ -47,25 +66,4 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.ProductService PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/CustomerService/MediatR/UpdateHandler.cs" relfile="CustomerService/MediatR/UpdateHandler.cs" line="33" column="1" />
-      <Breakpoint file="/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/CustomerService/Controllers/ApproveController.cs" relfile="CustomerService/Controllers/ApproveController.cs" line="33" column="1" />
-      <Breakpoint file="/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/CustomerService/Controllers/ApproveController.cs" relfile="CustomerService/Controllers/ApproveController.cs" line="25" column="1" />
-      <Breakpoint file="/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/CustomerService/MediatR/UpdateHandler.cs" relfile="CustomerService/MediatR/UpdateHandler.cs" line="23" column="1" />
-      <Breakpoint file="/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/CustomerService/MediatR/UpdateHandler.cs" relfile="CustomerService/MediatR/UpdateHandler.cs" line="15" column="1" />
-      <Breakpoint file="/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/CustomerService/MediatR/UpdateHandler.cs" relfile="CustomerService/MediatR/UpdateHandler.cs" line="30" column="1" />
-      <Breakpoint file="/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/CustomerService/MediatR/UpdateHandler.cs" relfile="CustomerService/MediatR/UpdateHandler.cs" line="44" column="1" />
-      <Breakpoint file="/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/CustomerService/MediatR/UpdateHandler.cs" relfile="CustomerService/MediatR/UpdateHandler.cs" line="50" column="1" />
-      <Breakpoint file="/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/CustomerService/MediatR/UpdateHandler.cs" relfile="CustomerService/MediatR/UpdateHandler.cs" line="52" column="1" />
-    </BreakpointStore>
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.CustomerService PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.ItemProperties.CounterSetvice PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.CounterService PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.ItemProperties.AccountService PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>

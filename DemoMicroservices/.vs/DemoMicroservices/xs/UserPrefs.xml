@@ -1,69 +1,56 @@
-﻿<Properties StartupConfiguration="{3BED683B-C872-4A97-ACD2-E90FFB78D6FB}|Producer">
+﻿<Properties StartupConfiguration="{39698EB7-78FF-426B-83FC-061274A759AF}|https">
   <MonoDevelop.Ide.ItemProperties.ProductService PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.ItemProperties.CustomerService PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <Breakpoint file="/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/CustomerService/MediatR/UpdateHandler.cs" relfile="CustomerService/MediatR/UpdateHandler.cs" line="33" column="1" />
-    <Breakpoint file="/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/CustomerService/Controllers/ApproveController.cs" relfile="CustomerService/Controllers/ApproveController.cs" line="33" column="1" />
-    <Breakpoint file="/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/CustomerService/Controllers/ApproveController.cs" relfile="CustomerService/Controllers/ApproveController.cs" line="25" column="1" />
-    <Breakpoint file="/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/CustomerService/MediatR/UpdateHandler.cs" relfile="CustomerService/MediatR/UpdateHandler.cs" line="23" column="1" />
-    <Breakpoint file="/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/CustomerService/MediatR/UpdateHandler.cs" relfile="CustomerService/MediatR/UpdateHandler.cs" line="15" column="1" />
-    <Breakpoint file="/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/CustomerService/MediatR/UpdateHandler.cs" relfile="CustomerService/MediatR/UpdateHandler.cs" line="30" column="1" />
-    <Breakpoint file="/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/CustomerService/MediatR/UpdateHandler.cs" relfile="CustomerService/MediatR/UpdateHandler.cs" line="44" column="1" />
-    <Breakpoint file="/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/CustomerService/MediatR/UpdateHandler.cs" relfile="CustomerService/MediatR/UpdateHandler.cs" line="50" column="1" />
-    <Breakpoint file="/Users/hoibui/Desktop/dapr-publish-subscribe/DemoMicroservices/CustomerService/MediatR/UpdateHandler.cs" relfile="CustomerService/MediatR/UpdateHandler.cs" line="52" column="1" />
+    <Breakpoint file="/Users/hoibui/Desktop/techcon-2023/DemoMicroservices/CustomerService/MediatR/UpdateHandler.cs" relfile="CustomerService/MediatR/UpdateHandler.cs" line="33" column="1" />
+    <Breakpoint file="/Users/hoibui/Desktop/techcon-2023/DemoMicroservices/CustomerService/Controllers/ApproveController.cs" relfile="CustomerService/Controllers/ApproveController.cs" line="33" column="1" />
+    <Breakpoint file="/Users/hoibui/Desktop/techcon-2023/DemoMicroservices/CustomerService/Controllers/ApproveController.cs" relfile="CustomerService/Controllers/ApproveController.cs" line="25" column="1" />
+    <Breakpoint file="/Users/hoibui/Desktop/techcon-2023/DemoMicroservices/CustomerService/MediatR/UpdateHandler.cs" relfile="CustomerService/MediatR/UpdateHandler.cs" line="23" column="1" />
+    <Breakpoint file="/Users/hoibui/Desktop/techcon-2023/DemoMicroservices/CustomerService/MediatR/UpdateHandler.cs" relfile="CustomerService/MediatR/UpdateHandler.cs" line="15" column="1" />
+    <Breakpoint file="/Users/hoibui/Desktop/techcon-2023/DemoMicroservices/CustomerService/MediatR/UpdateHandler.cs" relfile="CustomerService/MediatR/UpdateHandler.cs" line="30" column="1" />
+    <Breakpoint file="/Users/hoibui/Desktop/techcon-2023/DemoMicroservices/CustomerService/MediatR/UpdateHandler.cs" relfile="CustomerService/MediatR/UpdateHandler.cs" line="44" column="1" />
+    <Breakpoint file="/Users/hoibui/Desktop/techcon-2023/DemoMicroservices/CustomerService/MediatR/UpdateHandler.cs" relfile="CustomerService/MediatR/UpdateHandler.cs" line="50" column="1" />
+    <Breakpoint file="/Users/hoibui/Desktop/techcon-2023/DemoMicroservices/CustomerService/MediatR/UpdateHandler.cs" relfile="CustomerService/MediatR/UpdateHandler.cs" line="52" column="1" />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.AccountService PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.ItemProperties.CounterService PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.ItemProperties.CounterSetvice PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="CustomerService/Controllers/CheckoutController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AccountService/Infrastructure/Database.cs">
     <Files>
-      <File FileName="AccountService/Controllers/AccountController.cs" Line="1" Column="1" />
-      <File FileName="ProductService/Infrastructure/ApplicationContext.cs" Line="12" Column="1" />
-      <File FileName="CustomerService/Infrastructure/DependencyServices.cs" Line="11" Column="9" />
-      <File FileName="CustomerService/Infrastructure/ApplicationContext.cs" Line="9" Column="1" />
-      <File FileName="CustomerService/Infrastructure/Database.cs" Line="14" Column="1" />
-      <File FileName="CustomerService/CustomerService.csproj" Line="34" Column="1" />
-      <File FileName="CustomerService/MediatR/UpdateHandler.cs" Line="49" Column="10" />
-      <File FileName="CustomerService/Controllers/ApproveController.cs" Line="33" Column="1" />
-      <File FileName="Common/Infrastructure/UnitOfWork.cs" Line="39" Column="1" />
-      <File FileName="CounterService/Controllers/OrderController.cs" Line="17" Column="59" />
-      <File FileName="CounterService/Startup.cs" Line="1" Column="1" />
-      <File FileName="CounterService/MediatR/OrderHandler.cs" Line="62" Column="1" />
-      <File FileName="CustomerService/Controllers/CheckoutController.cs" Line="16" Column="21" />
-      <File FileName="ProductService/Controllers/ProductController.cs" Line="1" Column="1" />
+      <File FileName="AccountService/Controllers/AccountController.cs" />
+      <File FileName="ProductService/Infrastructure/ApplicationContext.cs" />
+      <File FileName="CustomerService/Infrastructure/DependencyServices.cs" />
+      <File FileName="CustomerService/Infrastructure/ApplicationContext.cs" />
+      <File FileName="CustomerService/Infrastructure/Database.cs" />
+      <File FileName="CustomerService/CustomerService.csproj" />
+      <File FileName="CustomerService/MediatR/UpdateHandler.cs" />
+      <File FileName="CustomerService/Controllers/ApproveController.cs" />
+      <File FileName="Common/Infrastructure/UnitOfWork.cs" />
+      <File FileName="CounterService/Controllers/OrderController.cs" />
+      <File FileName="CounterService/Startup.cs" />
+      <File FileName="CounterService/MediatR/OrderHandler.cs" />
+      <File FileName="CustomerService/Controllers/CheckoutController.cs" />
+      <File FileName="ProductService/Controllers/ProductController.cs" />
+      <File FileName="ProductService/Infrastructure/Database.cs" />
+      <File FileName="CounterService/Infrastructure/Database.cs" />
+      <File FileName="AccountService/Infrastructure/Database.cs" Line="11" Column="115" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DemoMicroservices" expanded="True">
-            <Node name="CounterService" expanded="True">
-              <Node name="Controllers" expanded="True" />
-              <Node name="MediatR" expanded="True" />
-            </Node>
-            <Node name="CustomerService" expanded="True">
-              <Node name="Dependencies" expanded="True" />
-              <Node name="Controllers" expanded="True">
-                <Node name="CheckoutController.cs" selected="True" />
+            <Node name="APIGateway">
+              <Node name="OcelotConfiguration" expanded="True">
+                <Node name="ocelot.json" expanded="True" />
               </Node>
-              <Node name="Infrastructure" expanded="True" />
-              <Node name="MediatR" expanded="True" />
-            </Node>
-            <Node name="ProductService" expanded="True">
-              <Node name="Dependencies" expanded="True" />
-              <Node name="Controllers" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State>
-          <Value>request</Value>
-          <Value>item</Value>
-        </State>
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.APIGateway PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>

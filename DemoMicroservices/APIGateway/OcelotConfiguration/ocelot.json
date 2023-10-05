@@ -1,0 +1,43 @@
+{
+  "Routes": [
+    {
+      "DownstreamPathTemplate": "/categories",
+      "DownstreamScheme": "http",
+      "DownstreamHostandPorts": [
+        {
+          "Host": "localhost",
+          "Port": "5174"
+        }
+      ],
+      "UpstreamPathTemplate": "/categories",
+      "UpstreamHttpMethod": [ "Put", "Delete", "Post", "Get" ]
+    },
+    {
+      "DownstreamPathTemplate": "/{all}",
+      "DownstreamScheme": "http",
+      "DownstreamHostandPorts": [
+        {
+          "Host": "localhost",
+          "Port": "5000"
+        }
+      ],
+      "UpstreamPathTemplate": "/{all}",
+      "UpstreamHttpMethod": [ "Put", "Delete", "Post", "Get" ]
+    },
+    {
+      "DownstreamPathTemplate": "/Order",
+      "DownstreamScheme": "http",
+      "DownstreamHostandPorts": [
+        {
+          "Host": "localhost",
+          "Port": "5011"
+        }
+      ],
+      "UpstreamPathTemplate": "/Order",
+      "UpstreamHttpMethod": [ "Put", "Delete", "Post", "Get" ]
+    }
+  ],
+  "GlobalConfiguration": {
+    "RequestIdKey": "OcRequestId"
+  }
+}
